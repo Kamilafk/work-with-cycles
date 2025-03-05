@@ -1,0 +1,7 @@
+start
+new i number
+set i 0
+  loop c1 (9 > i)
+    log string "1*" >> 
+    set i i + 1
+end counter
